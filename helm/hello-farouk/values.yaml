@@ -4,7 +4,7 @@ image:
   tag: "v1.0.0"
   pullPolicy: Always
 service:
-  type: nodePort
+  type: NodePort
   port: 80
   nodePort: 30080
 ingress:
