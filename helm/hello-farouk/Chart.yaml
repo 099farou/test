@@ -1,0 +1,6 @@
+apiVersion: v2
+name: hello-farouk
+description: A very simple web page
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
